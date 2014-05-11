@@ -6,7 +6,7 @@ This project contains a few AppleScripts that could come in handy for playing ar
 
 Thanks to:
 
-winch’s opensn0w (used in sn0wmaker)
+winocm’s opensn0w (used in sn0wmaker)
 msftguy’s ssh_rd tool (used in SetupPwner and SSHBuddy)
 planetbeing’s xpwn
 George Hotz for limera1n
