@@ -1,0 +1,13 @@
+Welcome to iPhone4utils by Shravan Jambukesan (@shrav_j)
+
+Work in progress - not all scripts will work properly. Some of the scripts listed below have not been developed yet as of 5/11/14.
+
+This project contains a few AppleScripts that could come in handy for playing around with your iPhone 4 or other limera1n-able device.
+
+Thanks to:
+
+winch’s opensn0w (used in sn0wmaker)
+msftguy’s ssh_rd tool (used in SetupPwner and SSHBuddy)
+planetbeing’s xpwn
+George Hotz for limera1n
+semaphore’s TinyUmbrella (used in SetupPwner)
