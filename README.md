@@ -18,4 +18,4 @@ semaphore - TinyUmbrella
 and various other people. 
 Appropriate credit has been given where needed. All scripts are written by me, Shravan Jambukesan.
 
-I will add a license to this project later, I gotta get some sleep now ;)
+This project is licensed under the MIT License
