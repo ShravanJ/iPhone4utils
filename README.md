@@ -1,7 +1,7 @@
 iPhone4utils
 ============
 
-A few AppleScripts to do fun stuff with an iPhone 4. 
+A few AppleScripts and Bash scripts to do fun stuff with an iPhone 4. 
 They probably will never really be used, but whatever, I needed something to do before I went to bed :P
 
 These scripts are probably buggy and have not even been tested with the device, however, since Terminal handles them well enough, I am assuming they work just fine. 
