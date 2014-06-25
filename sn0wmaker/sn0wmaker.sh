@@ -11,4 +11,4 @@ cd opensn0w
 ./autogen.sh
 sudo make
 sudo make install
-echo "sn0wmaker has finished building winocm's opensn0w. This script was created by Shravan Jambukesan (@shrav_j)"
+echo "sn0wmaker has finished building winocm's opensn0w."
