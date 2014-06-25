@@ -11,7 +11,7 @@ just because I have an iPhone 4 :P
 
 This is a work in progress. More scripts will be added sooner or later. Please don't rant if they don't work.
 
-This project contains contains and uses work from
+This project uses work from
 
 msftguy - ssh_rd
 
